@@ -28,3 +28,6 @@ library(tidyverse)
  3 * 3
 ```
 
+## Testing for Git
+Det regner i dag
+
