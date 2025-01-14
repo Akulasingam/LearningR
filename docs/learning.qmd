@@ -1,0 +1,30 @@
+---
+title: "Reproducible document"
+author: "Archana Kulasingam"
+format: html
+---
+
+## Basic of R
+
+```{r}
+1 + 1 
+```
+
+## Setup code chunk
+
+```{r setup}
+library(tidyverse)
+```
+
+## About me
+
+- Archana Kulasingam
+- Department of Clinical Medicine Aarhus University
+- Department of Cardiology, Aarhus University Hospital
+- I **like** to *travel* 
+
+## Simple code
+```{r}
+ 3 * 3
+```
+
