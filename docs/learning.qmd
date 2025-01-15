@@ -60,5 +60,14 @@ ggplot(post_meal_data, aes(x = BMI)) +
 ```
 @fig-bmi-histo
 
+## Exercise: discrete plots
+```{r}
+#| fig-cap: "Distribution of Group"
+#| label: fig-Group-bar
+ggplot(post_meal_data, aes(x = Group)) +
+  geom_bar()
+```
+@fig-Group-bar
+
 
 
